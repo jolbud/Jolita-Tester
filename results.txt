@@ -1,0 +1,12 @@
+***Webportal/Test Nr.1:'launch browser and navigate to the website'***
+OK. Naudotojas nunavigavo á website.
+***Webportal/Test Nr.2:'launch browser and navigate to the website'***
+OK. Search for 'dress' atliktas.
+***Webportal/Test Nr.3:'check that correct product is visible after search'***
+Error! Search pagal 'dress' vyksta netinkamai.
+***Webportal/Test Nr.4:'click add product to cart and check that product is visible in a shopping cart'***
+OK. Produktà pavyko ádëti á krepðelá, þinutë 'Product successfully added to your shopping cart' atvaizduota
+***Webportal/Test Nr.5:'continue to checkout and fill required information'***
+OK. Naudotojas nunavigavo á SignIn langà, ávedë reikalaujamus duomenis ir prisijungë.
+***Webportal/Test Nr.6:'continue to payments page and verify payment options'***
+OK. Naudotojas nunavigavo á payments langà ir pasirinko mokëjimo bûdà
